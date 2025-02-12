@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm BELLATRECHE Mohamed Amine, a data scinece student at USTO university, Oran, Algeria.
+I'm also an Arabic/ English Voice Actor
 <!--
 **amine-dubs/amine-dubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
